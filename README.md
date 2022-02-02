@@ -14,8 +14,17 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 ### [Ch. 5 Arrays](05_arrays)
 - 5: [Array Boot Camp](05_arrays/arrayBootCamp.ipynb)
 - 5.1: [Dutch National Flag Problem](05_arrays/dutchFlag.ipynb)
+- 5.2:
+- 5.3:
+- 5.4:
+- 5.5:
+- 5.6: [Buy and Sell a Stock Once](05_arrays/buySellStockOnce.ipynb)
 - 5.7:
-- 5.12:
+- 5.8:
+- 5.9:
+- 5.10:
+- 5.11:
+- 5.12: [Sample Offline Data](05_arrays/sampleOfflineData.ipynb)
 - 5.18:
 
 
