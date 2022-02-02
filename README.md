@@ -13,7 +13,7 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 
 ### [Ch. 5 Arrays](05_arrays)
 - 5: [Array Boot Camp](05_arrays/arrayBootCamp.ipynb)
-- 5.1:
+- 5.1: [Dutch National Flag Problem](05_arrays/dutchFlag.ipynb)
 - 5.7:
 - 5.12:
 - 5.18:
