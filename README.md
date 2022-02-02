@@ -25,7 +25,12 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 - 5.10:
 - 5.11:
 - 5.12: [Sample Offline Data](05_arrays/sampleOfflineData.ipynb)
-- 5.18:
+- 5.13:
+- 5.14:
+- 5.15:
+- 5.16:
+- 5.17: 
+- 5.18: [Compute the Spiral Ordering of a 2D Array](05_arrays/spiralOrder2D.ipynb)
 
 
 ### [Ch. 6 Strings](06_string)
