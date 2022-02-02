@@ -11,6 +11,13 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 - 4.6:
 - 4.7: [Compute *pow(x,y)*](04_primitiveTypes/powXY.ipynb)
 
+### [Ch. 5 Arrays](05_arrays)
+- 5: [Array Boot Camp](05_arrays/arrayBootCamp.ipynb)
+- 5.1:
+- 5.7:
+- 5.12:
+- 5.18:
+
 
 ### [Ch. 6 Strings](06_string)
 - 6: [String Boot Camp](06_string/stringBootCamp.ipynb)
