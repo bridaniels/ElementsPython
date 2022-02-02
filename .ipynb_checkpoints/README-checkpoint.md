@@ -1,15 +1,15 @@
 # ElementsPython
 Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash
 
-### [Ch. 4 Primitive Types](04_primitive)
-- 4: [Primitive Boot Camp](04_primitive/primitiveBootCamp.ipynb)
-- 4.1: [Computing the Parity of a Word](04_primitive/computeWordParity.ipynb)
+### [Ch. 4 Primitive Types](04_primitiveTypes)
+- 4: [Primitive Boot Camp](04_primitiveTypes/primitiveBootCamp.ipynb)
+- 4.1: [Computing the Parity of a Word](04_primitiveTypes/computeWordParity.ipynb)
 - 4.2:
 - 4.3:
 - 4.4:
 - 4.5:
 - 4.6:
-- 4.7: [Compute *pow(x,y)*](04_primitive/powXY.ipynb)
+- 4.7: [Compute *pow(x,y)*](04_primitiveTypes/powXY.ipynb)
 
 
 ### [Ch. 6 Strings](06_string)
