@@ -25,19 +25,29 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 - 5.10:
 - 5.11:
 - 5.12: [Sample Offline Data](05_arrays/sampleOfflineData.ipynb)
-- 5.18:
+- 5.13:
+- 5.14:
+- 5.15:
+- 5.16:
+- 5.17: 
+- 5.18: [Compute the Spiral Ordering of a 2D Array](05_arrays/spiralOrder2D.ipynb)
 
 
 ### [Ch. 6 Strings](06_string)
 - 6: [String Boot Camp](06_string/stringBootCamp.ipynb)
-- 6.1:
+- 6.1: [Interconvert Strings and Integers](06_string/interConvertStrInt.ipynb)
 - 6.2: 
 - 6.4: [Replace and Remove](06_string/replaceRemove.ipynb)
 
+### [Ch. 7 Linked Lists](07_linkedList)
+- 7: [Linked Lists Boot Camp](07_linkedList/linkedListBootCamp.ipynb)
+- 7.1:
+- 7.2:
 
 ### [Ch. 10 Heaps](10_heaps)
 - 10: [Heap Boot Camp](10_heaps/heapBootCamp.ipynb)
 - 10.1: [Merge Sorted Files](10_heaps/mergeSortedFiles2.ipynb)
+- 10.2: [Sort an Inreasing-Decreasing Array](10_heaps/sortIncreaseDecrease.ipynb)
 
 
 ### [Ch. 13: Sorting](13_sorting)

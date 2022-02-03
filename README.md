@@ -39,11 +39,15 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 - 6.2: 
 - 6.4: [Replace and Remove](06_string/replaceRemove.ipynb)
 
+### [Ch. 7 Linked Lists](07_linkedList)
+- 7: [Linked Lists Boot Camp](07_linkedList/linkedListBootCamp.ipynb)
+- 7.1:
+- 7.2:
 
 ### [Ch. 10 Heaps](10_heaps)
 - 10: [Heap Boot Camp](10_heaps/heapBootCamp.ipynb)
 - 10.1: [Merge Sorted Files](10_heaps/mergeSortedFiles2.ipynb)
-- 10.2: [Sort an Inreasing-Decreasing Array](sortIncreaseDecrease.ipynb)
+- 10.2: [Sort an Inreasing-Decreasing Array](10_heaps/sortIncreaseDecrease.ipynb)
 
 
 ### [Ch. 13: Sorting](13_sorting)
