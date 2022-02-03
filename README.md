@@ -43,6 +43,7 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 ### [Ch. 10 Heaps](10_heaps)
 - 10: [Heap Boot Camp](10_heaps/heapBootCamp.ipynb)
 - 10.1: [Merge Sorted Files](10_heaps/mergeSortedFiles2.ipynb)
+- 10.2: [Sort an Inreasing-Decreasing Array](sortIncreaseDecrease.ipynb)
 
 
 ### [Ch. 13: Sorting](13_sorting)
