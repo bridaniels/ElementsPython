@@ -37,6 +37,7 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 - 6: [String Boot Camp](06_string/stringBootCamp.ipynb)
 - 6.1: [Interconvert Strings and Integers](06_string/interConvertStrInt.ipynb)
 - 6.2: [Base Conversion](06_string/baseConversion.ipynb)
+- 6.3:
 - 6.4: [Replace and Remove](06_string/replaceRemove.ipynb)
 
 ### [Ch. 7 Linked Lists](07_linkedList)
