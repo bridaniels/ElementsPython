@@ -42,7 +42,7 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 
 ### [Ch. 7 Linked Lists](07_linkedList)
 - 7: [Linked Lists Boot Camp](07_linkedList/linkedListBootCamp.ipynb)
-- 7.1:
+- 7.1: [Merge Two Sorted Lists](07_linkedList/mergeTwoSortedLists.ipynb)
 - 7.2:
 
 ### [Ch. 10 Heaps](10_Heaps)
