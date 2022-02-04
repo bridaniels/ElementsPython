@@ -44,13 +44,14 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 - [Build a Linked List](07_linkedList/buildLinkedList.ipynb)
 - 7: [Linked Lists Boot Camp](07_linkedList/linkedListBootCamp.ipynb)
 - 7.1: [Merge Two Sorted Lists](07_linkedList/mergeTwoSortedLists.ipynb)
-- 7.2:
+- 7.2: [Reverse a Single Sublist](07_linkedList/reverseSublist.ipynb)
 
 ### [Ch. 10 Heaps](10_Heaps)
 - 10: [Heap Boot Camp](10_Heaps/heapBootCamp.ipynb)
 - 10.1: [Merge Sorted Files](10_Heaps/mergeSortedFiles2.ipynb)
 - 10.2: [Sort an Inreasing-Decreasing Array](10_Heaps/sortIncreaseDecrease.ipynb)
 - 10.3: [Sort an Almost-Sorted Array](10_Heaps/sortAlmostSorted.ipynb)
+- 10.4: [Compute the K Closest Stars](10_Heaps/kClosestStars.ipynb)
 
 
 ### [Ch. 13: Sorting](13_sorting)
