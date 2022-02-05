@@ -46,6 +46,15 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 - 7.1: [Merge Two Sorted Lists](07_linkedList/mergeTwoSortedLists.ipynb)
 - 7.2: [Reverse a Single Sublist](07_linkedList/reverseSublist.ipynb)
 
+### [Ch. 8 Stacks and Queues](08_stackQueue)
+- 8: [Stack](08_stackQueue/stackBootCamp.ipynb) and [Queue](08_stackQueue/queueBootCamp.ipynb)
+- 8.1: [Implement a Stack with Max API](08_stackQueue/maxStack.ipynb)
+- 8.2: 
+- 8.3:
+- 8.4:
+- 8.5:
+- 8.6:
+
 ### [Ch. 10 Heaps](10_Heaps)
 - 10: [Heap Boot Camp](10_Heaps/heapBootCamp.ipynb)
 - 10.1: [Merge Sorted Files](10_Heaps/mergeSortedFiles2.ipynb)
