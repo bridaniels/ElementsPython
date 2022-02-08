@@ -45,6 +45,7 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 - 7: [Linked Lists Boot Camp](07_linkedList/linkedListBootCamp.ipynb)
 - 7.1: [Merge Two Sorted Lists](07_linkedList/mergeTwoSortedLists.ipynb)
 - 7.2: [Reverse a Single Sublist](07_linkedList/reverseSublist.ipynb)
+- 7.3: [Test for Cyclicity](07_linkedList/testCyclicity.ipynb)
 
 ### [Ch. 8 Stacks and Queues](08_stackQueue)
 - 8: [Stack Boot Camp](08_stackQueue/stackBootCamp.ipynb)
@@ -55,6 +56,13 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 - 8.5:
 - 8: [Queue Boot Camp](08_stackQueue/queueBootCamp.ipynb)
 - 8.6:
+
+### [Ch. 9 Binary Trees](09_binaryTrees)
+- 9: [Binary Tree Boot Camp](09_binaryTrees/binaryTreeBootCamp.ipynb)
+- 9.1: 
+- 9.2:
+- 9.3:
+- 9.4:
 
 ### [Ch. 10 Heaps](10_Heaps)
 - 10: [Heap Boot Camp](10_Heaps/heapBootCamp.ipynb)

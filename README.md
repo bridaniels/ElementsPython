@@ -57,6 +57,13 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 - 8: [Queue Boot Camp](08_stackQueue/queueBootCamp.ipynb)
 - 8.6:
 
+### [Ch. 9 Binary Trees](09_binaryTrees)
+- 9: [Binary Tree Boot Camp](09_binaryTrees/binaryTreeBootCamp.ipynb)
+- 9.1: 
+- 9.2:
+- 9.3:
+- 9.4:
+
 ### [Ch. 10 Heaps](10_Heaps)
 - 10: [Heap Boot Camp](10_Heaps/heapBootCamp.ipynb)
 - 10.1: [Merge Sorted Files](10_Heaps/mergeSortedFiles2.ipynb)
