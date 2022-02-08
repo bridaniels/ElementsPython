@@ -1,4 +1,4 @@
-# **Chapter 7: Linked Lists
+# **Chapter 7: Linked Lists**
 ---
 
 ### Benefits over Array

@@ -71,6 +71,9 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 - 10.3: [Sort an Almost-Sorted Array](10_Heaps/sortAlmostSorted.ipynb)
 - 10.4: [Compute the K Closest Stars](10_Heaps/kClosestStars.ipynb)
 
+### [Ch. 11 Sorting](11_sorting)
+- 11: [Searching Boot Camp](11_sorting/searchBootCamp.ipynb)
+- 11.1: [Search a Sorted Array for First Occurence of K](11_sorting/searchSortedForK.ipynb)
 
 ### [Ch. 13: Sorting](13_sorting)
 - 13: [Sorting Boot Camp](13_sorting/pythonSort.ipynb)
