@@ -59,10 +59,10 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 
 ### [Ch. 9 Binary Trees](09_binaryTrees)
 - 9: [Binary Tree Boot Camp](09_binaryTrees/binaryTreeBootCamp.ipynb)
-- 9.1: 
+- 9.1: [Test if a Binary Tree is Height Balanced](09_binaryTrees/heightBalanced.ipynb)
 - 9.2:
 - 9.3:
-- 9.4:
+- 9.4: [Compute the LCA When Nodes Have Parent Pointers](09_binaryTrees/lcaParentPointers.ipynb)
 
 ### [Ch. 10 Heaps](10_Heaps)
 - 10: [Heap Boot Camp](10_Heaps/heapBootCamp.ipynb)
