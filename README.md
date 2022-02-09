@@ -74,6 +74,14 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 ### [Ch. 11 Sorting](11_searching)
 - 11: [Searching Boot Camp](11_searching/searchBootCamp.ipynb)
 - 11.1: [Search a Sorted Array for First Occurence of K](11_searching/searchSortedForK.ipynb)
+- 11.2:
+- 11.3:
+- 11.4: [Compute the Integer Square Root](11_searching/computeIntSqrRt.ipynb)
+- 11.5:
+- 11.6:
+- 11.7:
+- 11.8: [Find Kth Largest Element](11_searching/findKLargest.ipynb)
+
 
 ### [Ch. 13: Sorting](13_sorting)
 - 13: [Sorting Boot Camp](13_sorting/pythonSort.ipynb)
