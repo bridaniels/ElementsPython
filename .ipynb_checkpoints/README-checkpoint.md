@@ -1,4 +1,4 @@
-# ElementsPython
+      # ElementsPython
 Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash
 
 ### [Ch. 4 Primitive Types](04_primitiveTypes)
@@ -71,7 +71,7 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 - 10.3: [Sort an Almost-Sorted Array](10_Heaps/sortAlmostSorted.ipynb)
 - 10.4: [Compute the K Closest Stars](10_Heaps/kClosestStars.ipynb)
 
-### [Ch. 11 Sorting](11_searching)
+### [Ch. 11 Searching](11_searching)
 - 11: [Searching Boot Camp](11_searching/searchBootCamp.ipynb)
 - 11.1: [Search a Sorted Array for First Occurence of K](11_searching/searchSortedForK.ipynb)
 - 11.2:
@@ -82,8 +82,16 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 - 11.7:
 - 11.8: [Find Kth Largest Element](11_searching/findKLargest.ipynb)
 
+### [Ch. 12 Hash Tables](12_hashTable)
+- 12: [Hash Table Boot Camp](12_hashTable/htBootCamp.ipynb)
+- 12.1: [Test for Palindromic Permutations](12_hashTable/palindromicPermutations.ipynb)
+- 12.2: [Is an Anonymous Letter Constructible?](12_hashTable/anonLetter.ipynb)
+- 12.3:
+- 12.4:
+- 12.5:
 
-### [Ch. 13: Sorting](13_sorting)
+
+### [Ch. 13 Sorting](13_sorting)
 - 13: [Sorting Boot Camp](13_sorting/pythonSort.ipynb)
 - 13.1: [Intersection of Two Sorted Arrays](13_sorting/intersection.ipynb)
 - 13.2: [Merge Two Sorted Arrays](13_sorting/mergeTwoSorted.ipynb)

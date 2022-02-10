@@ -1,4 +1,4 @@
-# ElementsPython
+      # ElementsPython
 Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash
 
 ### [Ch. 4 Primitive Types](04_primitiveTypes)
@@ -84,8 +84,8 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 
 ### [Ch. 12 Hash Tables](12_hashTable)
 - 12: [Hash Table Boot Camp](12_hashTable/htBootCamp.ipynb)
-- 12.1:
-- 12.2:
+- 12.1: [Test for Palindromic Permutations](12_hashTable/palindromicPermutations.ipynb)
+- 12.2: [Is an Anonymous Letter Constructible?](12_hashTable/anonLetter.ipynb)
 - 12.3:
 - 12.4:
 - 12.5:
