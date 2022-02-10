@@ -97,3 +97,10 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 - 13.1: [Intersection of Two Sorted Arrays](13_sorting/intersection.ipynb)
 - 13.2: [Merge Two Sorted Arrays](13_sorting/mergeTwoSorted.ipynb)
 - 13.3: [Computing the H-Index](13_sorting/hIndex.ipynb)
+
+
+### [Ch. 14 Binary Search Tree](14_bst)
+- 14: [Binary Search Tree Bootcamp](14_bst/bstBootCamp.ipynb)
+- 14.1:
+- 14.2:
+- 14.3:
