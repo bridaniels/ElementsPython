@@ -86,9 +86,10 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 - 12: [Hash Table Boot Camp](12_hashTable/htBootCamp.ipynb)
 - 12.1: [Test for Palindromic Permutations](12_hashTable/palindromicPermutations.ipynb)
 - 12.2: [Is an Anonymous Letter Constructible?](12_hashTable/anonLetter.ipynb)
-- 12.3:
-- 12.4:
-- 12.5:
+- 12.3: [Implement an ISBN Cache](12_hashTable/isbnCache.ipynb)
+    - using Queue and Linked List 
+- 12.4: 
+- 12.5: [Find the Nearest Repeated Entries in an Array](12_hashTable/nearestRepeatEntries.ipynb)
 
 
 ### [Ch. 13 Sorting](13_sorting)
