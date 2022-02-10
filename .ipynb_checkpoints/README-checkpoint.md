@@ -101,6 +101,8 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 
 ### [Ch. 14 Binary Search Tree](14_bst)
 - 14: [Binary Search Tree Bootcamp](14_bst/bstBootCamp.ipynb)
-- 14.1:
+- 14.1: [Test if a Binary Tree Satisfies the BST Property](14_bst/satisfyBST.ipynb)
 - 14.2:
 - 14.3:
+
+- 14.10: [Range Lookup Problem](14_bst/rangeLookupProb.ipynb)
