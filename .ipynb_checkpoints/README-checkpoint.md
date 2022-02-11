@@ -118,4 +118,4 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 - 15: [Recursion Boot Camp](15_recursion/recursionBootCamp.ipynb)
 - 15.1: [The Towers of Hanoi Problem](15_recursion/towersHanoi.ipynb)
 - 15.2:
-- 15.3:
+- 15.3: [Generate all Non-Attacking Placements of n-Queens](15_recursion/nonattackingPlacements.ipynb)
