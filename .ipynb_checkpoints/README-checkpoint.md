@@ -104,5 +104,18 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 - 14.1: [Test if a Binary Tree Satisfies the BST Property](14_bst/satisfyBST.ipynb)
 - 14.2: [Find the First Key Greater Than a Given Value](14_bst/firstKeyGreaterThan.ipynb)
 - 14.3: [Find the K Largest Elements in a BST](14_bst/kLargestBST.ipynb)
-
+- 14.4:
+- 14.5:
+- 14.6:
+- 14.7:
+- 14.8:
+- 14.9: 
 - 14.10: [Range Lookup Problem](14_bst/rangeLookupProb.ipynb)
+- 14.11:
+
+
+### [Ch. 15 Recursion](15_recursion)
+- 15: [Recursion Boot Camp](15_recursion/recursionBootCamp.ipynb)
+- 15.1: [The Towers of Hanoi Problem](15_recursion/towersHanoi.ipynb)
+- 15.2:
+- 15.3:
