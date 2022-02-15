@@ -119,3 +119,10 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 - 15.1: [The Towers of Hanoi Problem](15_recursion/towersHanoi.ipynb)
 - 15.2:
 - 15.3: [Generate all Non-Attacking Placements of n-Queens](15_recursion/nonattackingPlacements.ipynb)
+
+
+
+### [Ch. 16 Dynamic Programming](16_dynamicProgramming)
+- 16: [Dynamic Programming Boot Camp](16_dynamicProgramming/dpBootCamp.ipynb)
+- 16.1: [Count the Number of Score Combinations](16_dynamicProgramming/scoreCombinations.ipynb)
+- 16.2: 
