@@ -125,4 +125,4 @@ Elements of Programming Interviews in Python, by Adnan Aziz, Tsung-Hsien Lee, an
 ### [Ch. 16 Dynamic Programming](16_dynamicProgramming)
 - 16: [Dynamic Programming Boot Camp](16_dynamicProgramming/dpBootCamp.ipynb)
 - 16.1: [Count the Number of Score Combinations](16_dynamicProgramming/scoreCombinations.ipynb)
-- 16.2: 
+- 16.2: [Compute the Levenshtein Distance](16_dynamicProgramming/levenshteinD.ipynb)
